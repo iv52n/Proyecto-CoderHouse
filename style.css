@@ -1,0 +1,58 @@
+*{
+    overflow-x: hidden;
+}
+@font-face {
+    font-family: "vision";
+    src: url(asets/Fonts/aesthetic/Aesthetic-Regular.otf);
+}
+@font-face {
+    font-family: "mafi";
+    src: url(asets/Fonts/mafisha/Mafisha.otf);
+}
+header, footer{
+    font-family: "mafi";
+    width: 100%;
+}
+body{
+    width: 100%;
+}
+.txt{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+#intro{
+    margin-top: 50px !important;
+}
+#intro h2{
+    font-family: "vision";
+}
+main{
+    height: 100%;
+}
+.img{
+    width: 150px;
+}
+#welcome{
+    font-family: "vision";
+    margin-top: 50px ;
+}
+#welcome h2{
+    font-size: 5rem;
+}
+#skills{
+    font-family: "vision";
+    margin-top: 150px ;
+}
+#about{
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+    margin-left: 10px;
+}
+#about h2{
+    font-family: "vision";
+
+}
+.abm{
+    margin-top: 0px ;
+    
+}
